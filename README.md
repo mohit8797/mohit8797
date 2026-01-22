@@ -48,19 +48,24 @@ An AI-powered system designed to streamline the hiring process.
 * ✅ **Skill Gap Analysis:** Identifies missing critical skills.
 * ✅ **Auto-Interview:** Generates context-aware interview questions.
 
+---
+
 ### 🔹 [YouTube RAG Chatbot](#)
-> **Stack:** LangChain, FAISS, OpenAI/Gemini API  
+> **Stack:** LangChain, FAISS, OpenAI / Gemini API  
 Interact directly with video content without watching the whole stream.
 * 📹 **Transcript Extraction:** Automated text parsing from video URLs.
 * 🧠 **Vector Database:** Uses FAISS for semantic search and retrieval.
-* 🤖 **RAG Pipeline:** accurate answers based strictly on video content.
+* 🤖 **RAG Pipeline:** Accurate answers grounded strictly in video content.
 
-### 🔹 [FarmRise](#)
-> **Stack:** Web Development, Database  
-Bridging the gap between organic farmers and urban consumers.
-* 🌾 **Direct Connection:** Eliminates middlemen for fair pricing.
-* 📍 **Geo-Tagging:** Location-based buying for fresh produce.
-* 🌱 **Sustainability:** Promoting eco-friendly commerce.
+---
+
+### 🔹 [Multimodal Skin Diseases Prediction](#)
+> **Stack:** CNN, TensorFlow, Deep Learning, Image Processing  
+An AI-based healthcare solution for early skin disease detection.
+* 🩺 **Image-Based Diagnosis:** Predicts multiple skin diseases from images.
+* 🧠 **CNN Architecture:** Deep learning model trained on medical image datasets.
+* 📊 **Model Evaluation:** Accuracy, precision, recall with data augmentation.
+* 🌐 **Multimodal Extension:** Designed for future integration with text-based symptoms.
 
 ---
 
@@ -68,12 +73,11 @@ Bridging the gap between organic farmers and urban consumers.
 
 <div align="center">
   <a href="https://github.com/mohit8797">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit8797&show_icons=true&theme=dracula&hide_border=true" alt="Mohit's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mohit8797&show_icons=true&theme=dracula&hide_border=true" alt="Mohit's GitHub Stats" />
   </a>
-  <br/>
-  <br/>
+  <br/><br/>
   <a href="https://github.com/mohit8797">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit8797&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit8797&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
@@ -83,11 +87,12 @@ Bridging the gap between organic farmers and urban consumers.
 
 ## 📫 Connect With Me
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/mohit-redhu-2075a5225/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL_HERE">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+<a href="mailto:mohitredhu2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
